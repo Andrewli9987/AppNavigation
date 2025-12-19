@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScrollableList</string>
+    <string name="team1">1. Florida Gators</string>
+    <string name="team2">2. St. John\'s Red Storm</string>
+    <string name="team3">3. Texas Tech Red Raiders</string>
+    <string name="team4">4. Maryland Terrapins</string>
+    <string name="team5">5. Memphis Tigers</string>
+    <string name="team6">6. Missouri Tigers</string>
+    <string name="team7">7. Kansas Jayhawks</string>
+    <string name="team8">8. UConn Huskies</string>
+    <string name="team9">9. Oklahoma Sooners</string>
+    <string name="team10">10. Arkansas Razerbacks</string>
+    <string name="team11">11. Drake Bulldogs</string>
+    <string name="team12">12. Colorado St. Rams</string>
+    <string name="team13">13. Grand Canyon Antelopes</string>
+    <string name="team14">14. UNC Wilmington Seahawks</string>
+    <string name="team15">15. Omaha Mavericks</string>
+    <string name="team16">16. Norfolk St. Spartans</string>
+</resources>
